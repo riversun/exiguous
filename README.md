@@ -35,3 +35,9 @@ public class Sample {
 ```
 ExifInfo [maker=Canon, model=Canon PowerShot SX130 IS, dateTime=2015:05:02 19:26:50, xResolution=, yResolution=, exposureTime=0.00125, exifVersion=0230, fValue=3.5, makerNote=null, imageWidth=640, imageHeight=480, GpsIFDVersion=null, GpsLongitude=0.0, GpsLongitudeRef=null, GpsLatitude=0.0, GpsLatitudeRef=null, GpsLatitudeDDMMSSsss=null, GpsLongitudeDDMMSSsss=null, GpsImageDirection=0.0]
 ```
+
+# More Details
+See javadoc as follows.
+
+https://riversun.github.io/javadoc/exiguous/
+
