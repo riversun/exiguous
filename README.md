@@ -41,3 +41,13 @@ See javadoc as follows.
 
 https://riversun.github.io/javadoc/exiguous/
 
+# Downloads
+## maven
+- You can add dependencies to maven pom.xml file.
+```xml
+<dependency>
+  <groupId>org.riversun</groupId>
+  <artifactId>exiguous</artifactId>
+  <version>0.3.0</version>
+</dependency>
+```
