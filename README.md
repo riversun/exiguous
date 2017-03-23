@@ -1,6 +1,8 @@
 # Overview
 'exiguous' is a java library for Exif (Exchangeable image file format) data.
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.riversun/exiguous/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.riversun/exiguous)
+
 You can easy to access Exif tags from your code.
 
 It is licensed under [The MIT License](http://opensource.org/licenses/MIT).
